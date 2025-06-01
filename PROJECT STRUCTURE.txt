@@ -1,0 +1,4 @@
+language-translator/
+├── index.html
+├── style.css
+└── script.js
